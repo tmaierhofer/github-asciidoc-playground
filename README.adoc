@@ -1,6 +1,11 @@
 
-:toc-title: My Table of Contents
+:toc-title: Github Processing issues TOC
 
+
+GitHub processes AsciiDoc files using the SECURE mode.
+https://docs.asciidoctor.org/asciidoctor/latest/safe-modes/
+
+// includes become links configuration dosen't work
 include::config.adoc[]
 
 
